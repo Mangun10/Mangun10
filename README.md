@@ -1,6 +1,6 @@
 # Manas Gunti (Mangun10)
 
-Senior Software Engineer | Applied AI & ML Enthusiast
+Applied AI & ML Enthusiast
 
 I build practical machine learning systems and scalable software that deliver measurable impact. I enjoy collaborating on research-to-production projects, open-source contributions, and cross-disciplinary teams that solve real-world problems.
 
