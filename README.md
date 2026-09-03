@@ -14,13 +14,6 @@ I build practical machine learning systems and scalable software that deliver me
 
 ---
 
-## Contact & Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-gunti-33451b252/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue)](https://mangun10.github.io/Portfolio/)  
-
----
-
 ## Core Skills & Tools
 
 - Languages: C, C++, Python
