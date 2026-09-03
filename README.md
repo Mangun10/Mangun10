@@ -1,25 +1,69 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on projects related to AI/ML, especially those that have a practical impact and enrich lives.<br>⚡ Fun fact I like reading books.
+# Manas Gunti (Mangun10)
 
+Senior Software Engineer | Applied AI & ML Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-gunti-33451b252/) 
+I build practical machine learning systems and scalable software that deliver measurable impact. I enjoy collaborating on research-to-production projects, open-source contributions, and cross-disciplinary teams that solve real-world problems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue)](https://mangun10.github.io/Portfolio/)
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
+## Quick Summary
+
+- 🔭 Focus: Applied Machine Learning, data-driven engineering, model deployment, and optimization.
+- ⚙️ Approach: Clean, testable code; reproducible experiments; clear metrics for success.
+- 📚 Interests: Reading, continuous learning, and mentoring others.
+
+---
+
+## Contact & Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-gunti-33451b252/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue)](https://mangun10.github.io/Portfolio/)  
+
+---
+
+## Core Skills & Tools
+
+- Languages: C, C++, Python
+- Machine Learning: PyTorch, TensorFlow, scikit-learn, pandas (experience with training and evaluation workflows)
+- MLOps & Infra: Docker, Git, Linux, CI/CD, model serving patterns
+- Productivity: Jupyter, NumPy, Matplotlib, experiment tracking (MLflow / Weights & Biases)
+
+(If you want, I can expand this section with concrete examples, project links, or version details.)
+
+---
+
+## Selected Projects
+
+See my portfolio for curated project case studies and code samples: https://mangun10.github.io/Portfolio/
+
+If you'd like, I can add brief descriptions and repository links for your top 3–5 projects directly in this README.
+
+---
+
+## GitHub Insights
+
 ![](https://github-readme-stats.vercel.app/api?username=Mangun10&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mangun10&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangun10&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+---
+
+### Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+---
+
+### Top Contributions
+
 ![](https://github-contributor-stats.vercel.app/api?username=Mangun10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### Visitor Count
 
 ![](https://komarev.com/ghpvc/?username=Mangun10&color=blue)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+Thank you for visiting — if you're interested in collaborating or want to discuss a project, please get in touch via LinkedIn or open an issue on any of my repositories.
